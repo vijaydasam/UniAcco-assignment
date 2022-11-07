@@ -1,0 +1,45 @@
+.airbnb-logo {
+  height: 50px;
+  width: 150px;
+}
+
+.header-container {
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.heading {
+  font-weight: 500;
+  font-size: 20px;
+  margin-right: 35px;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.hamburger {
+  height: 40px;
+  width: 80px;
+  border-radius: 30px;
+  border: 1px solid grey;
+  margin-left: 20px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.user-icon {
+  font-size: 30px;
+}
+
+.hamburger-icon {
+  font-size: 20px;
+}
